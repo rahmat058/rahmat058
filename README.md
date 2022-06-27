@@ -3,7 +3,7 @@
 A Full Stack Web developer🎯 from Bangladesh.
 
 - 👨‍💻 Full Stack MERN Developer
-- 📚 What do I believe? Jack of all, Master of some.
+- 📚 What do I believe? Hard work never goes in vain.
 - 📫 How to reach me: [Messenger](https://m.me/md.k.rahmat) - [@Kazi_Rahamatullah](https://kazi-rahamatullah.vercel.app/) or [WhatsApp](https://web.whatsapp.com/send?phone=+8801753362960)
 
 **Languages:**
