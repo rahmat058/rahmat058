@@ -10,7 +10,7 @@ Starting as a frontend developer shaped how I approach every project. I care abo
 
 Most of my day is frontend work with React and Next.js. I also build APIs and work with Node.js, Express, and MongoDB when a project needs the full stack. I like code that is clean, tested, and ready to ship.
 
-That work spans web and mobile, so responsive UI patterns are a big part of my work. I also follow software engineering, blockchain, AI, renewable energy, and IoT, and I'm learning Python to grow beyond the JavaScript stack.
+That work spans web and mobile, so responsive UI patterns are a big part of what I do. I also follow software engineering, blockchain, AI, renewable energy, and IoT, and I'm learning Python to grow beyond the JavaScript stack.
 
 Outside of work, I enjoy reading, learning languages, playing games, and traveling. I've also written for platforms like FreeCodeCamp.org, In Plain English, Developer DAO, and React Play, and I contribute to open-source projects.
 
@@ -40,4 +40,4 @@ Outside of work, I enjoy reading, learning languages, playing games, and traveli
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/rahmat058/keep-react" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmat058&repo=keep-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/rahmat058/keep-react" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmat058&repo=keep-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rahmat058/react-native-starter-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmat058&repo=react-native-starter-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
