@@ -1,0 +1,26 @@
+{
+  "name": "rahmat058",
+  "version": "1.0.0",
+  "description": "Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kazi Rahamatullah\r ==========================================================================================================================================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write README.md",
+    "format:check": "prettier --check README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahmat058/rahmat058.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rahmat058/rahmat058/issues"
+  },
+  "homepage": "https://github.com/rahmat058/rahmat058#readme",
+  "devDependencies": {
+    "prettier": "^3.8.4"
+  }
+}
