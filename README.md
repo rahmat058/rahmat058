@@ -33,7 +33,7 @@ projects.
 - ✉️ You can contact me at
   [md.kazi.rahmat@gmail.com](mailto:md.kazi.rahmat@gmail.com)
 - 🚀 I'm currently working on
-  [Secureframe](http://secureframe.com/)
+  [Staticmania](http://staticmania.com/)
 - 🧠 I'm currently learning Astro
 
 <p align="left">
