@@ -2,55 +2,24 @@
 
 # 💫 About Me:
 
-I’m a frontend-focused full-stack developer with more than
-five years of experience building production web
-applications for startups, agencies, and growing businesses.
+Frontend-focused full-stack developer with 5+ years of
+experience building responsive web applications using React,
+Next.js, TypeScript, and Node.js. Skilled in creating
+accessible interfaces, developing REST APIs, improving
+performance, and turning Figma designs and business
+requirements into reliable, production-ready features.
 
-My strongest area is frontend development with React,
-Next.js, TypeScript, and JavaScript. I enjoy turning Figma
-designs and product requirements into responsive interfaces
-that are accessible, fast, and straightforward to use.
-
-Over the years, I’ve worked on SaaS products, e-commerce
-platforms, internal dashboards, compliance applications,
-marketing websites, and design systems. I have supported
-projects from early requirements and component planning
-through development, testing, deployment, and post-launch
-improvements.
-
-In my current role, I have helped deliver web applications
-for more than five startup and small-business clients. My
-work has included building reusable components, integrating
-APIs, improving page-load performance by up to 25%, testing
-important user journeys, and preparing applications for
-production deployment.
-
-Although frontend development is my main strength, I’m
-comfortable working across the full stack. I build REST
-APIs, authentication flows, database-driven features, and
-backend services using Node.js, Express.js, PostgreSQL,
-MongoDB, and Prisma.
-
-I care about the details that make a product reliable:
-responsive layouts, reusable architecture, accessibility,
-web performance, clear loading and error states,
-maintainable code, and testing important user journeys.
-
-My current toolkit includes React, Next.js, TypeScript,
-JavaScript, Node.js, Express.js, PostgreSQL, MongoDB,
-Prisma, Tailwind CSS, Redux Toolkit, TanStack Query, Jest,
-Cypress, Playwright, Docker, Git, and Vercel.
-
-I’m currently open to frontend-focused full-stack, frontend
-engineering, React, Next.js, and software engineering
-opportunities. I’m particularly interested in teams building
-useful products where I can contribute across the
-development lifecycle while continuing to grow as an
-engineer.
-
-🔭 I’m currently working on<br>👯 I’m looking to collaborate
-on<br>🤝 I’m looking for help with<br>🌱 I’m currently
-learning<br>💬 Ask me about<br>⚡ Fun fact
+- 🌍 I'm based in Bangladesh
+- 🖥️ See my portfolio at
+  [My Portfolio](http://kazi-rahamatullah.vercel.app/)
+- 🔭 I’m currently working on
+  [Staticmania](http://staticmania.com/)
+- 🤝 I'm looking for help with Open source projects
+- 🧠 I'm currently learning Python
+- 💬 Ask me about React, Next.js, TypeScript, Web
+  Performance Optimization
+- ⚡ Fun fact I love turning complex design requirements
+  into elegant, scalable code
 
 ## 🌐 Socials:
 
