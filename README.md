@@ -1,31 +1,54 @@
+![Kazi Rahamatullah Banner](https://res.cloudinary.com/dcsmzfbrd/image/upload/v1784920955/Github/kazi-rahamatullah-animated_pzsp6c.gif)
+
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kazi Rahamatullah
 
 ## Fullstack Developer
 
-I'm a MERN stack developer with 5+ years of industry
-experience. I started as a frontend developer, learned to
-code, and turned that into a full-time career building web
-apps.
+I’m a frontend-focused full-stack developer with more than
+five years of experience building production web
+applications for startups, agencies, and growing businesses.
 
-Starting as a frontend developer shaped how I approach every
-project. I care about clean layouts, fast pages, and
-building interfaces that are easy for people to use.
+My strongest area is frontend development with React,
+Next.js, TypeScript, and JavaScript. I enjoy turning Figma
+designs and product requirements into responsive interfaces
+that are accessible, fast, and straightforward to use.
 
-Most of my day is frontend work with React and Next.js. I
-also build APIs and work with Node.js, Express, and MongoDB
-when a project needs the full stack. I like code that is
-clean, tested, and ready to ship.
+Over the years, I’ve worked on SaaS products, e-commerce
+platforms, internal dashboards, compliance applications,
+marketing websites, and design systems. I have supported
+projects from early requirements and component planning
+through development, testing, deployment, and post-launch
+improvements.
 
-That work spans web and mobile, so responsive UI patterns
-are a big part of what I do. I also follow software
-engineering, blockchain, AI, renewable energy, and IoT, and
-I'm learning Python to grow beyond the JavaScript stack.
+In my current role, I have helped deliver web applications
+for more than five startup and small-business clients. My
+work has included building reusable components, integrating
+APIs, improving page-load performance by up to 25%, testing
+important user journeys, and preparing applications for
+production deployment.
 
-Outside of work, I enjoy reading, learning languages,
-playing games, and traveling. I've also written for
-platforms like FreeCodeCamp.org, In Plain English, Developer
-DAO, and React Play, and I contribute to open-source
-projects.
+Although frontend development is my main strength, I’m
+comfortable working across the full stack. I build REST
+APIs, authentication flows, database-driven features, and
+backend services using Node.js, Express.js, PostgreSQL,
+MongoDB, and Prisma.
+
+I care about the details that make a product reliable:
+responsive layouts, reusable architecture, accessibility,
+web performance, clear loading and error states,
+maintainable code, and testing important user journeys.
+
+My current toolkit includes React, Next.js, TypeScript,
+JavaScript, Node.js, Express.js, PostgreSQL, MongoDB,
+Prisma, Tailwind CSS, Redux Toolkit, TanStack Query, Jest,
+Cypress, Playwright, Docker, Git, and Vercel.
+
+I’m currently open to frontend-focused full-stack, frontend
+engineering, React, Next.js, and software engineering
+opportunities. I’m particularly interested in teams building
+useful products where I can contribute across the
+development lifecycle while continuing to grow as an
+engineer.
 
 - 🌍 I'm based in Bangladesh
 - 🖥️ See my portfolio at
@@ -165,7 +188,7 @@ projects.
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center">
-<a href="https://github.com/rahmat058/keep-react" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmat058&repo=keep-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/rahmat058/react-native-starter-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmat058&repo=react-native-starter-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+<a href="https://github.com/rahmat058/keep-react"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmat058&repo=keep-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/rahmat058/react-native-starter-project"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmat058&repo=react-native-starter-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
