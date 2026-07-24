@@ -127,8 +127,8 @@ requirements into reliable, production-ready features.
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🏆 Daily Dev Stats
 
-![](https://github-contributor-stats.vercel.app/api?username=rahmat058&limit=5&theme=react&combine_all_yearly_contributions=true)
+<a href="https://daily.dev/rahmat058"><img src="https://api.daily.dev/devcards/v2/3j6VaNOyouTdpyntXHaq7.png?type=wide&r=roq" width="652" alt="Kazi Rahamatullah's Dev Card"/></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
