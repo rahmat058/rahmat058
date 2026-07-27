@@ -1,4 +1,4 @@
-![Kazi Rahamatullah Banner](https://res.cloudinary.com/dcsmzfbrd/image/upload/v1784920955/Github/kazi-rahamatullah-animated_pzsp6c.gif)
+![Kazi Rahamatullah Banner](https://res.cloudinary.com/dcsmzfbrd/image/upload/v1785158171/Github/kazi-rahamatullah-github-banner-typing-animated-1200x300_nkqezn.gif)
 
 # 💫 About Me:
 
